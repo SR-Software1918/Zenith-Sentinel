@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">Zenith Sentinel</string>
+    <string name="app_title">ZENITH_SENTINEL</string>
+    <string name="status_ready">CORE_SYSTEM_READY</string>
+    <string name="status_loading">ENGINE_RECALCULATING...</string>
+    <string name="mode_idle">IDLE_MODE</string>
+    <string name="pos_unmapped">Position: Unmapped</string>
+    <string name="carrier_search">Carrier: Searching...</string>
+    <string name="advisory_title">SENTINEL_ADVISORY</string>
+    <string name="advisory_default">Initiate recalculation for contextual insights.</string>
+    <string name="btn_sync">SYNC_SENTINEL_CORE</string>
+    <string name="err_no_internet">ERROR: RADIO_OFFLINE</string>
+    <string name="err_protocol">PROTOCOL_ERROR: Connection failed</string>
+    <string name="data_unavailable">Data Unavailable</string>
+    <string name="diag_idle">DIAGNOSTIC_IDLE</string>
+</resources>

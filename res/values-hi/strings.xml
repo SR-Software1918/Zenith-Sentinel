@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">जेनिथ सेंटिनल</string>
+    <string name="app_title">जेनिथ_सेंटिनल</string>
+    <string name="status_ready">सिस्टम तैयार है</string>
+    <string name="status_loading">गणना जारी है...</string>
+    <string name="mode_idle">प्रतीक्षा मोड</string>
+    <string name="pos_unmapped">स्थान: मानचित्रित नहीं</string>
+    <string name="carrier_search">नेटवर्क: खोज जारी...</string>
+    <string name="advisory_title">सेंटिनल सलाह</string>
+    <string name="advisory_default">अंतर्दृष्टि के लिए पुनः गणना शुरू करें।</string>
+    <string name="btn_sync">सिस्टम सिंक्रोनाइज़ करें</string>
+    <string name="err_no_internet">त्रुटि: रेडियो ऑफलाइन</string>
+    <string name="err_protocol">प्रोटोकॉल त्रुटि: कनेक्शन विफल</string>
+    <string name="data_unavailable">डेटा उपलब्ध नहीं</string>
+    <string name="diag_idle">निदान सुप्त</string>
+</resources>
